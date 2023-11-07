@@ -1,4 +1,4 @@
-instalar wget
+#instalar wget
 brew instal wget
 
 #REFERENCE GENOME (download, index, create dictionary)
